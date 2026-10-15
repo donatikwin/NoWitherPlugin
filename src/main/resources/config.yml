@@ -1,0 +1,9 @@
+wither-disabled: true
+
+messages:
+  prefix: "&8[&bControl&8] &r"
+  blocked: "&aПоявление Иссушителя заблокировано."
+  unblocked: "&cПоявление Иссушителя разрешено."
+  reloaded: "&aКонфигурация перезагружена."
+  no-permission: "&cУ вас нет прав для выполнения этой команды."
+  usage: "&cИспользование: /nowither <true|false|reload>"

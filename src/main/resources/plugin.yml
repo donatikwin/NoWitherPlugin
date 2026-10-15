@@ -1,0 +1,16 @@
+name: NorthWitherControl
+version: 1.0.0
+main: dev.donatikwin.northwither.NorthWitherControl
+api-version: '1.21'
+author: donatikwin
+website: https://github.com/donatikwin/NorthWitherControlPlugin
+
+commands:
+  nowither:
+    description: Включает или отключает появление Иссушителя
+    usage: /nowither <true|false|reload>
+
+permissions:
+  northwither.admin:
+    description: Позволяет управлять появлением Иссушителя
+    default: op
