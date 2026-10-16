@@ -2,8 +2,7 @@
 
 Небольшой плагин для Paper и Purpur, который блокирует появление Иссушителя. Он отменяет попытки создать моба, не вмешиваясь в обычные механики сервера, такие как взрывы, блоки и кастомные динамиты.
 
-[Скачать JAR](https://github.com/donatikwin/NorthWitherControlPlugin/raw/refs/heads/main/target/NorthWitherControl.jar) · [Все релизы](https://github.com/donatikwin/NorthWitherControlPlugin/releases) · [Исходный код](https://github.com/donatikwin/NorthWitherControlPlugin)
-
+[Скачать JAR](https://github.com/donatikwin/NorthWitherControlPlugin/raw/refs/heads/main/target/NorthWitherControl.jar)
 ## Возможности
 
 - Блокирует появление Иссушителя, когда настройка `wither-disabled` включена.
